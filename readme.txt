@@ -9,3 +9,4 @@ Git is free software.
 dddd
 working
 mine
+friend
